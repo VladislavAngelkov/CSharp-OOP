@@ -1,0 +1,14 @@
+C:\Users\gdpbz\source\repos\InheritanceLab 25.10.2022\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.exe
+C:\Users\gdpbz\source\repos\InheritanceLab 25.10.2022\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.deps.json
+C:\Users\gdpbz\source\repos\InheritanceLab 25.10.2022\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.runtimeconfig.json
+C:\Users\gdpbz\source\repos\InheritanceLab 25.10.2022\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.runtimeconfig.dev.json
+C:\Users\gdpbz\source\repos\InheritanceLab 25.10.2022\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.dll
+C:\Users\gdpbz\source\repos\InheritanceLab 25.10.2022\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.pdb
+C:\Users\gdpbz\source\repos\InheritanceLab 25.10.2022\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.csproj.AssemblyReference.cache
+C:\Users\gdpbz\source\repos\InheritanceLab 25.10.2022\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gdpbz\source\repos\InheritanceLab 25.10.2022\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.AssemblyInfoInputs.cache
+C:\Users\gdpbz\source\repos\InheritanceLab 25.10.2022\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.AssemblyInfo.cs
+C:\Users\gdpbz\source\repos\InheritanceLab 25.10.2022\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.csproj.CoreCompileInputs.cache
+C:\Users\gdpbz\source\repos\InheritanceLab 25.10.2022\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.dll
+C:\Users\gdpbz\source\repos\InheritanceLab 25.10.2022\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.pdb
+C:\Users\gdpbz\source\repos\InheritanceLab 25.10.2022\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.genruntimeconfig.cache

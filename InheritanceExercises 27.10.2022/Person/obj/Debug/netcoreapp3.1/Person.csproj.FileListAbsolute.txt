@@ -1,0 +1,14 @@
+C:\Users\gdpbz\source\repos\InheritanceExercises 27.10.2022\Person\bin\Debug\netcoreapp3.1\Person.exe
+C:\Users\gdpbz\source\repos\InheritanceExercises 27.10.2022\Person\bin\Debug\netcoreapp3.1\Person.deps.json
+C:\Users\gdpbz\source\repos\InheritanceExercises 27.10.2022\Person\bin\Debug\netcoreapp3.1\Person.runtimeconfig.json
+C:\Users\gdpbz\source\repos\InheritanceExercises 27.10.2022\Person\bin\Debug\netcoreapp3.1\Person.runtimeconfig.dev.json
+C:\Users\gdpbz\source\repos\InheritanceExercises 27.10.2022\Person\bin\Debug\netcoreapp3.1\Person.dll
+C:\Users\gdpbz\source\repos\InheritanceExercises 27.10.2022\Person\bin\Debug\netcoreapp3.1\Person.pdb
+C:\Users\gdpbz\source\repos\InheritanceExercises 27.10.2022\Person\obj\Debug\netcoreapp3.1\Person.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gdpbz\source\repos\InheritanceExercises 27.10.2022\Person\obj\Debug\netcoreapp3.1\Person.AssemblyInfoInputs.cache
+C:\Users\gdpbz\source\repos\InheritanceExercises 27.10.2022\Person\obj\Debug\netcoreapp3.1\Person.AssemblyInfo.cs
+C:\Users\gdpbz\source\repos\InheritanceExercises 27.10.2022\Person\obj\Debug\netcoreapp3.1\Person.csproj.CoreCompileInputs.cache
+C:\Users\gdpbz\source\repos\InheritanceExercises 27.10.2022\Person\obj\Debug\netcoreapp3.1\Person.dll
+C:\Users\gdpbz\source\repos\InheritanceExercises 27.10.2022\Person\obj\Debug\netcoreapp3.1\Person.pdb
+C:\Users\gdpbz\source\repos\InheritanceExercises 27.10.2022\Person\obj\Debug\netcoreapp3.1\Person.genruntimeconfig.cache
+C:\Users\gdpbz\source\repos\InheritanceExercises 27.10.2022\Person\obj\Debug\netcoreapp3.1\Person.csproj.AssemblyReference.cache

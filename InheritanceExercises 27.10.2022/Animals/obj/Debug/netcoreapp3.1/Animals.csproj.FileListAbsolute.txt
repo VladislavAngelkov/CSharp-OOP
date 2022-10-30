@@ -1,0 +1,14 @@
+C:\Users\gdpbz\source\repos\InheritanceExercises 27.10.2022\Animals\bin\Debug\netcoreapp3.1\Animals.exe
+C:\Users\gdpbz\source\repos\InheritanceExercises 27.10.2022\Animals\bin\Debug\netcoreapp3.1\Animals.deps.json
+C:\Users\gdpbz\source\repos\InheritanceExercises 27.10.2022\Animals\bin\Debug\netcoreapp3.1\Animals.runtimeconfig.json
+C:\Users\gdpbz\source\repos\InheritanceExercises 27.10.2022\Animals\bin\Debug\netcoreapp3.1\Animals.runtimeconfig.dev.json
+C:\Users\gdpbz\source\repos\InheritanceExercises 27.10.2022\Animals\bin\Debug\netcoreapp3.1\Animals.dll
+C:\Users\gdpbz\source\repos\InheritanceExercises 27.10.2022\Animals\bin\Debug\netcoreapp3.1\Animals.pdb
+C:\Users\gdpbz\source\repos\InheritanceExercises 27.10.2022\Animals\obj\Debug\netcoreapp3.1\Animals.csproj.AssemblyReference.cache
+C:\Users\gdpbz\source\repos\InheritanceExercises 27.10.2022\Animals\obj\Debug\netcoreapp3.1\Animals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gdpbz\source\repos\InheritanceExercises 27.10.2022\Animals\obj\Debug\netcoreapp3.1\Animals.AssemblyInfoInputs.cache
+C:\Users\gdpbz\source\repos\InheritanceExercises 27.10.2022\Animals\obj\Debug\netcoreapp3.1\Animals.AssemblyInfo.cs
+C:\Users\gdpbz\source\repos\InheritanceExercises 27.10.2022\Animals\obj\Debug\netcoreapp3.1\Animals.csproj.CoreCompileInputs.cache
+C:\Users\gdpbz\source\repos\InheritanceExercises 27.10.2022\Animals\obj\Debug\netcoreapp3.1\Animals.dll
+C:\Users\gdpbz\source\repos\InheritanceExercises 27.10.2022\Animals\obj\Debug\netcoreapp3.1\Animals.pdb
+C:\Users\gdpbz\source\repos\InheritanceExercises 27.10.2022\Animals\obj\Debug\netcoreapp3.1\Animals.genruntimeconfig.cache
