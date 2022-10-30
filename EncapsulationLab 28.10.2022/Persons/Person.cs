@@ -60,10 +60,10 @@ namespace PersonsInfo
             get { return salary; }
             private set
             {
-                //if (value<650)
-                //{
-                //    throw new ArgumentException("Salary cannot be less than 650 leva!");
-                //}
+                if (value<650)
+                {
+                    throw new ArgumentException("Salary cannot be less than 650 leva!");
+                }
                 salary = value;
             }
         }
