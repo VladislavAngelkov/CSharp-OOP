@@ -1,0 +1,16 @@
+C:\Users\gdpbz\source\repos\Polymorphism\Operations\bin\Debug\net5.0\Operations.exe
+C:\Users\gdpbz\source\repos\Polymorphism\Operations\bin\Debug\net5.0\Operations.deps.json
+C:\Users\gdpbz\source\repos\Polymorphism\Operations\bin\Debug\net5.0\Operations.runtimeconfig.json
+C:\Users\gdpbz\source\repos\Polymorphism\Operations\bin\Debug\net5.0\Operations.runtimeconfig.dev.json
+C:\Users\gdpbz\source\repos\Polymorphism\Operations\bin\Debug\net5.0\Operations.dll
+C:\Users\gdpbz\source\repos\Polymorphism\Operations\bin\Debug\net5.0\ref\Operations.dll
+C:\Users\gdpbz\source\repos\Polymorphism\Operations\bin\Debug\net5.0\Operations.pdb
+C:\Users\gdpbz\source\repos\Polymorphism\Operations\obj\Debug\net5.0\Operations.csproj.AssemblyReference.cache
+C:\Users\gdpbz\source\repos\Polymorphism\Operations\obj\Debug\net5.0\Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gdpbz\source\repos\Polymorphism\Operations\obj\Debug\net5.0\Operations.AssemblyInfoInputs.cache
+C:\Users\gdpbz\source\repos\Polymorphism\Operations\obj\Debug\net5.0\Operations.AssemblyInfo.cs
+C:\Users\gdpbz\source\repos\Polymorphism\Operations\obj\Debug\net5.0\Operations.csproj.CoreCompileInputs.cache
+C:\Users\gdpbz\source\repos\Polymorphism\Operations\obj\Debug\net5.0\Operations.dll
+C:\Users\gdpbz\source\repos\Polymorphism\Operations\obj\Debug\net5.0\ref\Operations.dll
+C:\Users\gdpbz\source\repos\Polymorphism\Operations\obj\Debug\net5.0\Operations.pdb
+C:\Users\gdpbz\source\repos\Polymorphism\Operations\obj\Debug\net5.0\Operations.genruntimeconfig.cache

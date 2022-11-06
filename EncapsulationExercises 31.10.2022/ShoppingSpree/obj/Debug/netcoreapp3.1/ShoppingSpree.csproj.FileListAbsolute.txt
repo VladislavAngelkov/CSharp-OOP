@@ -1,0 +1,14 @@
+C:\Users\gdpbz\source\repos\EncapsulationExercises 31.10.2022\ShoppingSpree\bin\Debug\netcoreapp3.1\ShoppingSpree.exe
+C:\Users\gdpbz\source\repos\EncapsulationExercises 31.10.2022\ShoppingSpree\bin\Debug\netcoreapp3.1\ShoppingSpree.deps.json
+C:\Users\gdpbz\source\repos\EncapsulationExercises 31.10.2022\ShoppingSpree\bin\Debug\netcoreapp3.1\ShoppingSpree.runtimeconfig.json
+C:\Users\gdpbz\source\repos\EncapsulationExercises 31.10.2022\ShoppingSpree\bin\Debug\netcoreapp3.1\ShoppingSpree.runtimeconfig.dev.json
+C:\Users\gdpbz\source\repos\EncapsulationExercises 31.10.2022\ShoppingSpree\bin\Debug\netcoreapp3.1\ShoppingSpree.dll
+C:\Users\gdpbz\source\repos\EncapsulationExercises 31.10.2022\ShoppingSpree\bin\Debug\netcoreapp3.1\ShoppingSpree.pdb
+C:\Users\gdpbz\source\repos\EncapsulationExercises 31.10.2022\ShoppingSpree\obj\Debug\netcoreapp3.1\ShoppingSpree.csproj.AssemblyReference.cache
+C:\Users\gdpbz\source\repos\EncapsulationExercises 31.10.2022\ShoppingSpree\obj\Debug\netcoreapp3.1\ShoppingSpree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gdpbz\source\repos\EncapsulationExercises 31.10.2022\ShoppingSpree\obj\Debug\netcoreapp3.1\ShoppingSpree.AssemblyInfoInputs.cache
+C:\Users\gdpbz\source\repos\EncapsulationExercises 31.10.2022\ShoppingSpree\obj\Debug\netcoreapp3.1\ShoppingSpree.AssemblyInfo.cs
+C:\Users\gdpbz\source\repos\EncapsulationExercises 31.10.2022\ShoppingSpree\obj\Debug\netcoreapp3.1\ShoppingSpree.csproj.CoreCompileInputs.cache
+C:\Users\gdpbz\source\repos\EncapsulationExercises 31.10.2022\ShoppingSpree\obj\Debug\netcoreapp3.1\ShoppingSpree.dll
+C:\Users\gdpbz\source\repos\EncapsulationExercises 31.10.2022\ShoppingSpree\obj\Debug\netcoreapp3.1\ShoppingSpree.pdb
+C:\Users\gdpbz\source\repos\EncapsulationExercises 31.10.2022\ShoppingSpree\obj\Debug\netcoreapp3.1\ShoppingSpree.genruntimeconfig.cache

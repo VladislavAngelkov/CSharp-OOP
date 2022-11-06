@@ -1,0 +1,14 @@
+C:\Users\gdpbz\source\repos\InterfacesAndAbstractionExercises 03.11.2022\ExplicitInterfaces\bin\Debug\netcoreapp3.1\ExplicitInterfaces.exe
+C:\Users\gdpbz\source\repos\InterfacesAndAbstractionExercises 03.11.2022\ExplicitInterfaces\bin\Debug\netcoreapp3.1\ExplicitInterfaces.deps.json
+C:\Users\gdpbz\source\repos\InterfacesAndAbstractionExercises 03.11.2022\ExplicitInterfaces\bin\Debug\netcoreapp3.1\ExplicitInterfaces.runtimeconfig.json
+C:\Users\gdpbz\source\repos\InterfacesAndAbstractionExercises 03.11.2022\ExplicitInterfaces\bin\Debug\netcoreapp3.1\ExplicitInterfaces.runtimeconfig.dev.json
+C:\Users\gdpbz\source\repos\InterfacesAndAbstractionExercises 03.11.2022\ExplicitInterfaces\bin\Debug\netcoreapp3.1\ExplicitInterfaces.dll
+C:\Users\gdpbz\source\repos\InterfacesAndAbstractionExercises 03.11.2022\ExplicitInterfaces\bin\Debug\netcoreapp3.1\ExplicitInterfaces.pdb
+C:\Users\gdpbz\source\repos\InterfacesAndAbstractionExercises 03.11.2022\ExplicitInterfaces\obj\Debug\netcoreapp3.1\ExplicitInterfaces.csproj.AssemblyReference.cache
+C:\Users\gdpbz\source\repos\InterfacesAndAbstractionExercises 03.11.2022\ExplicitInterfaces\obj\Debug\netcoreapp3.1\ExplicitInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gdpbz\source\repos\InterfacesAndAbstractionExercises 03.11.2022\ExplicitInterfaces\obj\Debug\netcoreapp3.1\ExplicitInterfaces.AssemblyInfoInputs.cache
+C:\Users\gdpbz\source\repos\InterfacesAndAbstractionExercises 03.11.2022\ExplicitInterfaces\obj\Debug\netcoreapp3.1\ExplicitInterfaces.AssemblyInfo.cs
+C:\Users\gdpbz\source\repos\InterfacesAndAbstractionExercises 03.11.2022\ExplicitInterfaces\obj\Debug\netcoreapp3.1\ExplicitInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\gdpbz\source\repos\InterfacesAndAbstractionExercises 03.11.2022\ExplicitInterfaces\obj\Debug\netcoreapp3.1\ExplicitInterfaces.dll
+C:\Users\gdpbz\source\repos\InterfacesAndAbstractionExercises 03.11.2022\ExplicitInterfaces\obj\Debug\netcoreapp3.1\ExplicitInterfaces.pdb
+C:\Users\gdpbz\source\repos\InterfacesAndAbstractionExercises 03.11.2022\ExplicitInterfaces\obj\Debug\netcoreapp3.1\ExplicitInterfaces.genruntimeconfig.cache

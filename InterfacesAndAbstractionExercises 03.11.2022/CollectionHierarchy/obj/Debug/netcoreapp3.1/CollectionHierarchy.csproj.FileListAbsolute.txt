@@ -1,0 +1,14 @@
+C:\Users\gdpbz\source\repos\InterfacesAndAbstractionExercises 03.11.2022\CollectionHierarchy\obj\Debug\netcoreapp3.1\CollectionHierarchy.csproj.AssemblyReference.cache
+C:\Users\gdpbz\source\repos\InterfacesAndAbstractionExercises 03.11.2022\CollectionHierarchy\obj\Debug\netcoreapp3.1\CollectionHierarchy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gdpbz\source\repos\InterfacesAndAbstractionExercises 03.11.2022\CollectionHierarchy\obj\Debug\netcoreapp3.1\CollectionHierarchy.AssemblyInfoInputs.cache
+C:\Users\gdpbz\source\repos\InterfacesAndAbstractionExercises 03.11.2022\CollectionHierarchy\obj\Debug\netcoreapp3.1\CollectionHierarchy.AssemblyInfo.cs
+C:\Users\gdpbz\source\repos\InterfacesAndAbstractionExercises 03.11.2022\CollectionHierarchy\obj\Debug\netcoreapp3.1\CollectionHierarchy.csproj.CoreCompileInputs.cache
+C:\Users\gdpbz\source\repos\InterfacesAndAbstractionExercises 03.11.2022\CollectionHierarchy\bin\Debug\netcoreapp3.1\CollectionHierarchy.exe
+C:\Users\gdpbz\source\repos\InterfacesAndAbstractionExercises 03.11.2022\CollectionHierarchy\bin\Debug\netcoreapp3.1\CollectionHierarchy.deps.json
+C:\Users\gdpbz\source\repos\InterfacesAndAbstractionExercises 03.11.2022\CollectionHierarchy\bin\Debug\netcoreapp3.1\CollectionHierarchy.runtimeconfig.json
+C:\Users\gdpbz\source\repos\InterfacesAndAbstractionExercises 03.11.2022\CollectionHierarchy\bin\Debug\netcoreapp3.1\CollectionHierarchy.runtimeconfig.dev.json
+C:\Users\gdpbz\source\repos\InterfacesAndAbstractionExercises 03.11.2022\CollectionHierarchy\bin\Debug\netcoreapp3.1\CollectionHierarchy.dll
+C:\Users\gdpbz\source\repos\InterfacesAndAbstractionExercises 03.11.2022\CollectionHierarchy\bin\Debug\netcoreapp3.1\CollectionHierarchy.pdb
+C:\Users\gdpbz\source\repos\InterfacesAndAbstractionExercises 03.11.2022\CollectionHierarchy\obj\Debug\netcoreapp3.1\CollectionHierarchy.dll
+C:\Users\gdpbz\source\repos\InterfacesAndAbstractionExercises 03.11.2022\CollectionHierarchy\obj\Debug\netcoreapp3.1\CollectionHierarchy.pdb
+C:\Users\gdpbz\source\repos\InterfacesAndAbstractionExercises 03.11.2022\CollectionHierarchy\obj\Debug\netcoreapp3.1\CollectionHierarchy.genruntimeconfig.cache

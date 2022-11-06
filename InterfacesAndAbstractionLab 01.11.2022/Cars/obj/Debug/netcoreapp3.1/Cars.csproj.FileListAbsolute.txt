@@ -1,0 +1,14 @@
+C:\Users\gdpbz\source\repos\InterfacesAndAbstractionLab 01.11.2022\Cars\bin\Debug\netcoreapp3.1\Cars.exe
+C:\Users\gdpbz\source\repos\InterfacesAndAbstractionLab 01.11.2022\Cars\bin\Debug\netcoreapp3.1\Cars.deps.json
+C:\Users\gdpbz\source\repos\InterfacesAndAbstractionLab 01.11.2022\Cars\bin\Debug\netcoreapp3.1\Cars.runtimeconfig.json
+C:\Users\gdpbz\source\repos\InterfacesAndAbstractionLab 01.11.2022\Cars\bin\Debug\netcoreapp3.1\Cars.runtimeconfig.dev.json
+C:\Users\gdpbz\source\repos\InterfacesAndAbstractionLab 01.11.2022\Cars\bin\Debug\netcoreapp3.1\Cars.dll
+C:\Users\gdpbz\source\repos\InterfacesAndAbstractionLab 01.11.2022\Cars\bin\Debug\netcoreapp3.1\Cars.pdb
+C:\Users\gdpbz\source\repos\InterfacesAndAbstractionLab 01.11.2022\Cars\obj\Debug\netcoreapp3.1\Cars.csproj.AssemblyReference.cache
+C:\Users\gdpbz\source\repos\InterfacesAndAbstractionLab 01.11.2022\Cars\obj\Debug\netcoreapp3.1\Cars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gdpbz\source\repos\InterfacesAndAbstractionLab 01.11.2022\Cars\obj\Debug\netcoreapp3.1\Cars.AssemblyInfoInputs.cache
+C:\Users\gdpbz\source\repos\InterfacesAndAbstractionLab 01.11.2022\Cars\obj\Debug\netcoreapp3.1\Cars.AssemblyInfo.cs
+C:\Users\gdpbz\source\repos\InterfacesAndAbstractionLab 01.11.2022\Cars\obj\Debug\netcoreapp3.1\Cars.csproj.CoreCompileInputs.cache
+C:\Users\gdpbz\source\repos\InterfacesAndAbstractionLab 01.11.2022\Cars\obj\Debug\netcoreapp3.1\Cars.dll
+C:\Users\gdpbz\source\repos\InterfacesAndAbstractionLab 01.11.2022\Cars\obj\Debug\netcoreapp3.1\Cars.pdb
+C:\Users\gdpbz\source\repos\InterfacesAndAbstractionLab 01.11.2022\Cars\obj\Debug\netcoreapp3.1\Cars.genruntimeconfig.cache
