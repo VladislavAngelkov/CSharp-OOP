@@ -1,0 +1,14 @@
+C:\Users\gdpbz\source\repos\ExamUnitTesting 11.12.2021\Gyms\bin\Debug\netcoreapp3.1\Gyms.exe
+C:\Users\gdpbz\source\repos\ExamUnitTesting 11.12.2021\Gyms\bin\Debug\netcoreapp3.1\Gyms.deps.json
+C:\Users\gdpbz\source\repos\ExamUnitTesting 11.12.2021\Gyms\bin\Debug\netcoreapp3.1\Gyms.runtimeconfig.json
+C:\Users\gdpbz\source\repos\ExamUnitTesting 11.12.2021\Gyms\bin\Debug\netcoreapp3.1\Gyms.runtimeconfig.dev.json
+C:\Users\gdpbz\source\repos\ExamUnitTesting 11.12.2021\Gyms\bin\Debug\netcoreapp3.1\Gyms.dll
+C:\Users\gdpbz\source\repos\ExamUnitTesting 11.12.2021\Gyms\bin\Debug\netcoreapp3.1\Gyms.pdb
+C:\Users\gdpbz\source\repos\ExamUnitTesting 11.12.2021\Gyms\obj\Debug\netcoreapp3.1\Gyms.csproj.AssemblyReference.cache
+C:\Users\gdpbz\source\repos\ExamUnitTesting 11.12.2021\Gyms\obj\Debug\netcoreapp3.1\Gyms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gdpbz\source\repos\ExamUnitTesting 11.12.2021\Gyms\obj\Debug\netcoreapp3.1\Gyms.AssemblyInfoInputs.cache
+C:\Users\gdpbz\source\repos\ExamUnitTesting 11.12.2021\Gyms\obj\Debug\netcoreapp3.1\Gyms.AssemblyInfo.cs
+C:\Users\gdpbz\source\repos\ExamUnitTesting 11.12.2021\Gyms\obj\Debug\netcoreapp3.1\Gyms.csproj.CoreCompileInputs.cache
+C:\Users\gdpbz\source\repos\ExamUnitTesting 11.12.2021\Gyms\obj\Debug\netcoreapp3.1\Gyms.dll
+C:\Users\gdpbz\source\repos\ExamUnitTesting 11.12.2021\Gyms\obj\Debug\netcoreapp3.1\Gyms.pdb
+C:\Users\gdpbz\source\repos\ExamUnitTesting 11.12.2021\Gyms\obj\Debug\netcoreapp3.1\Gyms.genruntimeconfig.cache

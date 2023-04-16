@@ -1,0 +1,14 @@
+C:\Users\gdpbz\source\repos\Exam 22.08.2021\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.exe
+C:\Users\gdpbz\source\repos\Exam 22.08.2021\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.deps.json
+C:\Users\gdpbz\source\repos\Exam 22.08.2021\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.runtimeconfig.json
+C:\Users\gdpbz\source\repos\Exam 22.08.2021\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.runtimeconfig.dev.json
+C:\Users\gdpbz\source\repos\Exam 22.08.2021\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.dll
+C:\Users\gdpbz\source\repos\Exam 22.08.2021\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.pdb
+C:\Users\gdpbz\source\repos\Exam 22.08.2021\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.csproj.AssemblyReference.cache
+C:\Users\gdpbz\source\repos\Exam 22.08.2021\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gdpbz\source\repos\Exam 22.08.2021\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.AssemblyInfoInputs.cache
+C:\Users\gdpbz\source\repos\Exam 22.08.2021\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.AssemblyInfo.cs
+C:\Users\gdpbz\source\repos\Exam 22.08.2021\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.csproj.CoreCompileInputs.cache
+C:\Users\gdpbz\source\repos\Exam 22.08.2021\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.dll
+C:\Users\gdpbz\source\repos\Exam 22.08.2021\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.pdb
+C:\Users\gdpbz\source\repos\Exam 22.08.2021\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+C:\Users\gdpbz\source\repos\ExceptionsAndErrorHandlingLab 08.11.2022\EnterNumbers\obj\Debug\netcoreapp3.1\EnterNumbers.csproj.AssemblyReference.cache
+C:\Users\gdpbz\source\repos\ExceptionsAndErrorHandlingLab 08.11.2022\EnterNumbers\obj\Debug\netcoreapp3.1\EnterNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gdpbz\source\repos\ExceptionsAndErrorHandlingLab 08.11.2022\EnterNumbers\obj\Debug\netcoreapp3.1\EnterNumbers.AssemblyInfoInputs.cache
+C:\Users\gdpbz\source\repos\ExceptionsAndErrorHandlingLab 08.11.2022\EnterNumbers\obj\Debug\netcoreapp3.1\EnterNumbers.AssemblyInfo.cs
+C:\Users\gdpbz\source\repos\ExceptionsAndErrorHandlingLab 08.11.2022\EnterNumbers\obj\Debug\netcoreapp3.1\EnterNumbers.csproj.CoreCompileInputs.cache

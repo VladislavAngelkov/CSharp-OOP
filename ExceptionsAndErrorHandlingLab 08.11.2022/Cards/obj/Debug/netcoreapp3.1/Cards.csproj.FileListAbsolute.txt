@@ -1,0 +1,14 @@
+C:\Users\gdpbz\source\repos\ExceptionsAndErrorHandlingLab 08.11.2022\Cards\bin\Debug\netcoreapp3.1\Cards.exe
+C:\Users\gdpbz\source\repos\ExceptionsAndErrorHandlingLab 08.11.2022\Cards\bin\Debug\netcoreapp3.1\Cards.deps.json
+C:\Users\gdpbz\source\repos\ExceptionsAndErrorHandlingLab 08.11.2022\Cards\bin\Debug\netcoreapp3.1\Cards.runtimeconfig.json
+C:\Users\gdpbz\source\repos\ExceptionsAndErrorHandlingLab 08.11.2022\Cards\bin\Debug\netcoreapp3.1\Cards.runtimeconfig.dev.json
+C:\Users\gdpbz\source\repos\ExceptionsAndErrorHandlingLab 08.11.2022\Cards\bin\Debug\netcoreapp3.1\Cards.dll
+C:\Users\gdpbz\source\repos\ExceptionsAndErrorHandlingLab 08.11.2022\Cards\bin\Debug\netcoreapp3.1\Cards.pdb
+C:\Users\gdpbz\source\repos\ExceptionsAndErrorHandlingLab 08.11.2022\Cards\obj\Debug\netcoreapp3.1\Cards.csproj.AssemblyReference.cache
+C:\Users\gdpbz\source\repos\ExceptionsAndErrorHandlingLab 08.11.2022\Cards\obj\Debug\netcoreapp3.1\Cards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gdpbz\source\repos\ExceptionsAndErrorHandlingLab 08.11.2022\Cards\obj\Debug\netcoreapp3.1\Cards.AssemblyInfoInputs.cache
+C:\Users\gdpbz\source\repos\ExceptionsAndErrorHandlingLab 08.11.2022\Cards\obj\Debug\netcoreapp3.1\Cards.AssemblyInfo.cs
+C:\Users\gdpbz\source\repos\ExceptionsAndErrorHandlingLab 08.11.2022\Cards\obj\Debug\netcoreapp3.1\Cards.csproj.CoreCompileInputs.cache
+C:\Users\gdpbz\source\repos\ExceptionsAndErrorHandlingLab 08.11.2022\Cards\obj\Debug\netcoreapp3.1\Cards.dll
+C:\Users\gdpbz\source\repos\ExceptionsAndErrorHandlingLab 08.11.2022\Cards\obj\Debug\netcoreapp3.1\Cards.pdb
+C:\Users\gdpbz\source\repos\ExceptionsAndErrorHandlingLab 08.11.2022\Cards\obj\Debug\netcoreapp3.1\Cards.genruntimeconfig.cache

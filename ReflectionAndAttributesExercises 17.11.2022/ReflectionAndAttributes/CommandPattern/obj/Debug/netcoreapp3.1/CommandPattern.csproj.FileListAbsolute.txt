@@ -1,0 +1,14 @@
+C:\Users\gdpbz\source\repos\ReflectionAndAttributesExercises 17.11.2022\ReflectionAndAttributes\CommandPattern\bin\Debug\netcoreapp3.1\CommandPattern.exe
+C:\Users\gdpbz\source\repos\ReflectionAndAttributesExercises 17.11.2022\ReflectionAndAttributes\CommandPattern\bin\Debug\netcoreapp3.1\CommandPattern.deps.json
+C:\Users\gdpbz\source\repos\ReflectionAndAttributesExercises 17.11.2022\ReflectionAndAttributes\CommandPattern\bin\Debug\netcoreapp3.1\CommandPattern.runtimeconfig.json
+C:\Users\gdpbz\source\repos\ReflectionAndAttributesExercises 17.11.2022\ReflectionAndAttributes\CommandPattern\bin\Debug\netcoreapp3.1\CommandPattern.runtimeconfig.dev.json
+C:\Users\gdpbz\source\repos\ReflectionAndAttributesExercises 17.11.2022\ReflectionAndAttributes\CommandPattern\bin\Debug\netcoreapp3.1\CommandPattern.dll
+C:\Users\gdpbz\source\repos\ReflectionAndAttributesExercises 17.11.2022\ReflectionAndAttributes\CommandPattern\bin\Debug\netcoreapp3.1\CommandPattern.pdb
+C:\Users\gdpbz\source\repos\ReflectionAndAttributesExercises 17.11.2022\ReflectionAndAttributes\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.csproj.AssemblyReference.cache
+C:\Users\gdpbz\source\repos\ReflectionAndAttributesExercises 17.11.2022\ReflectionAndAttributes\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gdpbz\source\repos\ReflectionAndAttributesExercises 17.11.2022\ReflectionAndAttributes\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.AssemblyInfoInputs.cache
+C:\Users\gdpbz\source\repos\ReflectionAndAttributesExercises 17.11.2022\ReflectionAndAttributes\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.AssemblyInfo.cs
+C:\Users\gdpbz\source\repos\ReflectionAndAttributesExercises 17.11.2022\ReflectionAndAttributes\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.csproj.CoreCompileInputs.cache
+C:\Users\gdpbz\source\repos\ReflectionAndAttributesExercises 17.11.2022\ReflectionAndAttributes\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.dll
+C:\Users\gdpbz\source\repos\ReflectionAndAttributesExercises 17.11.2022\ReflectionAndAttributes\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.pdb
+C:\Users\gdpbz\source\repos\ReflectionAndAttributesExercises 17.11.2022\ReflectionAndAttributes\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.genruntimeconfig.cache

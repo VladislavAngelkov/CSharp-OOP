@@ -1,0 +1,14 @@
+C:\Users\gdpbz\source\repos\ExceptionsAndErrorHandlingLab 08.11.2022\MoneyTransaction\bin\Debug\netcoreapp3.1\MoneyTransaction.exe
+C:\Users\gdpbz\source\repos\ExceptionsAndErrorHandlingLab 08.11.2022\MoneyTransaction\bin\Debug\netcoreapp3.1\MoneyTransaction.deps.json
+C:\Users\gdpbz\source\repos\ExceptionsAndErrorHandlingLab 08.11.2022\MoneyTransaction\bin\Debug\netcoreapp3.1\MoneyTransaction.runtimeconfig.json
+C:\Users\gdpbz\source\repos\ExceptionsAndErrorHandlingLab 08.11.2022\MoneyTransaction\bin\Debug\netcoreapp3.1\MoneyTransaction.runtimeconfig.dev.json
+C:\Users\gdpbz\source\repos\ExceptionsAndErrorHandlingLab 08.11.2022\MoneyTransaction\bin\Debug\netcoreapp3.1\MoneyTransaction.dll
+C:\Users\gdpbz\source\repos\ExceptionsAndErrorHandlingLab 08.11.2022\MoneyTransaction\bin\Debug\netcoreapp3.1\MoneyTransaction.pdb
+C:\Users\gdpbz\source\repos\ExceptionsAndErrorHandlingLab 08.11.2022\MoneyTransaction\obj\Debug\netcoreapp3.1\MoneyTransaction.csproj.AssemblyReference.cache
+C:\Users\gdpbz\source\repos\ExceptionsAndErrorHandlingLab 08.11.2022\MoneyTransaction\obj\Debug\netcoreapp3.1\MoneyTransaction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gdpbz\source\repos\ExceptionsAndErrorHandlingLab 08.11.2022\MoneyTransaction\obj\Debug\netcoreapp3.1\MoneyTransaction.AssemblyInfoInputs.cache
+C:\Users\gdpbz\source\repos\ExceptionsAndErrorHandlingLab 08.11.2022\MoneyTransaction\obj\Debug\netcoreapp3.1\MoneyTransaction.AssemblyInfo.cs
+C:\Users\gdpbz\source\repos\ExceptionsAndErrorHandlingLab 08.11.2022\MoneyTransaction\obj\Debug\netcoreapp3.1\MoneyTransaction.csproj.CoreCompileInputs.cache
+C:\Users\gdpbz\source\repos\ExceptionsAndErrorHandlingLab 08.11.2022\MoneyTransaction\obj\Debug\netcoreapp3.1\MoneyTransaction.dll
+C:\Users\gdpbz\source\repos\ExceptionsAndErrorHandlingLab 08.11.2022\MoneyTransaction\obj\Debug\netcoreapp3.1\MoneyTransaction.pdb
+C:\Users\gdpbz\source\repos\ExceptionsAndErrorHandlingLab 08.11.2022\MoneyTransaction\obj\Debug\netcoreapp3.1\MoneyTransaction.genruntimeconfig.cache

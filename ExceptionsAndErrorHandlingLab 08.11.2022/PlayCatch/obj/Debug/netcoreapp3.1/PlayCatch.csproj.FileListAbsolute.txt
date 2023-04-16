@@ -1,0 +1,14 @@
+C:\Users\gdpbz\source\repos\ExceptionsAndErrorHandlingLab 08.11.2022\PlayCatch\bin\Debug\netcoreapp3.1\PlayCatch.exe
+C:\Users\gdpbz\source\repos\ExceptionsAndErrorHandlingLab 08.11.2022\PlayCatch\bin\Debug\netcoreapp3.1\PlayCatch.deps.json
+C:\Users\gdpbz\source\repos\ExceptionsAndErrorHandlingLab 08.11.2022\PlayCatch\bin\Debug\netcoreapp3.1\PlayCatch.runtimeconfig.json
+C:\Users\gdpbz\source\repos\ExceptionsAndErrorHandlingLab 08.11.2022\PlayCatch\bin\Debug\netcoreapp3.1\PlayCatch.runtimeconfig.dev.json
+C:\Users\gdpbz\source\repos\ExceptionsAndErrorHandlingLab 08.11.2022\PlayCatch\bin\Debug\netcoreapp3.1\PlayCatch.dll
+C:\Users\gdpbz\source\repos\ExceptionsAndErrorHandlingLab 08.11.2022\PlayCatch\bin\Debug\netcoreapp3.1\PlayCatch.pdb
+C:\Users\gdpbz\source\repos\ExceptionsAndErrorHandlingLab 08.11.2022\PlayCatch\obj\Debug\netcoreapp3.1\PlayCatch.csproj.AssemblyReference.cache
+C:\Users\gdpbz\source\repos\ExceptionsAndErrorHandlingLab 08.11.2022\PlayCatch\obj\Debug\netcoreapp3.1\PlayCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gdpbz\source\repos\ExceptionsAndErrorHandlingLab 08.11.2022\PlayCatch\obj\Debug\netcoreapp3.1\PlayCatch.AssemblyInfoInputs.cache
+C:\Users\gdpbz\source\repos\ExceptionsAndErrorHandlingLab 08.11.2022\PlayCatch\obj\Debug\netcoreapp3.1\PlayCatch.AssemblyInfo.cs
+C:\Users\gdpbz\source\repos\ExceptionsAndErrorHandlingLab 08.11.2022\PlayCatch\obj\Debug\netcoreapp3.1\PlayCatch.csproj.CoreCompileInputs.cache
+C:\Users\gdpbz\source\repos\ExceptionsAndErrorHandlingLab 08.11.2022\PlayCatch\obj\Debug\netcoreapp3.1\PlayCatch.dll
+C:\Users\gdpbz\source\repos\ExceptionsAndErrorHandlingLab 08.11.2022\PlayCatch\obj\Debug\netcoreapp3.1\PlayCatch.pdb
+C:\Users\gdpbz\source\repos\ExceptionsAndErrorHandlingLab 08.11.2022\PlayCatch\obj\Debug\netcoreapp3.1\PlayCatch.genruntimeconfig.cache

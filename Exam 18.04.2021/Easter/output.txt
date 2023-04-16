@@ -1,0 +1,33 @@
+
+Successfully added SleepyBunny named Moony.
+Successfully added SleepyBunny named Latey.
+Successfully added HappyBunny named Mikey.
+Successfully added HappyBunny named Crispy.
+Successfully added dye with power 20 to bunny Moony!
+Successfully added dye with power 180 to bunny Mikey!
+Successfully added dye with power 10 to bunny Moony!
+Successfully added dye with power 10 to bunny Latey!
+Successfully added dye with power 20 to bunny Crispy!
+Successfully added dye with power 10 to bunny Crispy!
+Successfully added dye with power 10 to bunny Crispy!
+Successfully added egg: Spicy!
+Successfully added egg: Beauty!
+Successfully added egg: Purple!
+Successfully added egg: PurpleRain!
+Successfully added egg: Pink!
+Egg Spicy is done.
+Egg Beauty is not done.
+Egg Purple is not done.
+Egg PurpleRain is not done.
+Egg Pink is not done.
+1 eggs are done!
+Bunnies info:
+Name: Moony
+Energy: 5
+Dyes: 0 not finished
+Name: Latey
+Energy: 35
+Dyes: 0 not finished
+Name: Crispy
+Energy: 60
+Dyes: 0 not finished

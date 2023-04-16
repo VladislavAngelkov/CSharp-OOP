@@ -1,0 +1,14 @@
+C:\Users\gdpbz\source\repos\SOLIDExercises 14.11.2022\SOLIDExercises 14.11.2022\bin\Debug\netcoreapp3.1\Logger.exe
+C:\Users\gdpbz\source\repos\SOLIDExercises 14.11.2022\SOLIDExercises 14.11.2022\bin\Debug\netcoreapp3.1\Logger.deps.json
+C:\Users\gdpbz\source\repos\SOLIDExercises 14.11.2022\SOLIDExercises 14.11.2022\bin\Debug\netcoreapp3.1\Logger.runtimeconfig.json
+C:\Users\gdpbz\source\repos\SOLIDExercises 14.11.2022\SOLIDExercises 14.11.2022\bin\Debug\netcoreapp3.1\Logger.runtimeconfig.dev.json
+C:\Users\gdpbz\source\repos\SOLIDExercises 14.11.2022\SOLIDExercises 14.11.2022\bin\Debug\netcoreapp3.1\Logger.dll
+C:\Users\gdpbz\source\repos\SOLIDExercises 14.11.2022\SOLIDExercises 14.11.2022\bin\Debug\netcoreapp3.1\Logger.pdb
+C:\Users\gdpbz\source\repos\SOLIDExercises 14.11.2022\SOLIDExercises 14.11.2022\obj\Debug\netcoreapp3.1\Logger.csproj.AssemblyReference.cache
+C:\Users\gdpbz\source\repos\SOLIDExercises 14.11.2022\SOLIDExercises 14.11.2022\obj\Debug\netcoreapp3.1\Logger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gdpbz\source\repos\SOLIDExercises 14.11.2022\SOLIDExercises 14.11.2022\obj\Debug\netcoreapp3.1\Logger.AssemblyInfoInputs.cache
+C:\Users\gdpbz\source\repos\SOLIDExercises 14.11.2022\SOLIDExercises 14.11.2022\obj\Debug\netcoreapp3.1\Logger.AssemblyInfo.cs
+C:\Users\gdpbz\source\repos\SOLIDExercises 14.11.2022\SOLIDExercises 14.11.2022\obj\Debug\netcoreapp3.1\Logger.csproj.CoreCompileInputs.cache
+C:\Users\gdpbz\source\repos\SOLIDExercises 14.11.2022\SOLIDExercises 14.11.2022\obj\Debug\netcoreapp3.1\Logger.dll
+C:\Users\gdpbz\source\repos\SOLIDExercises 14.11.2022\SOLIDExercises 14.11.2022\obj\Debug\netcoreapp3.1\Logger.pdb
+C:\Users\gdpbz\source\repos\SOLIDExercises 14.11.2022\SOLIDExercises 14.11.2022\obj\Debug\netcoreapp3.1\Logger.genruntimeconfig.cache

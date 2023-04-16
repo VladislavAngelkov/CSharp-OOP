@@ -1,0 +1,35 @@
+
+Successfully added Geodesist: Jake!
+Successfully added Planet: Mars!
+You need at least one astronaut to explore the planet!
+0 planets were explored!
+Astronauts info:
+Name: Jake
+Oxygen: 50
+Bag items: none
+Successfully added Biologist: Jack!
+Successfully added Meteorologist: Liam!
+Successfully added Biologist: Michael!
+Successfully added Meteorologist: David!
+Successfully added Meteorologist: Thomas!
+Successfully added Planet: Jupiter!
+Astronaut David was retired!
+Astronaut William doesn't exists!
+Planet: Jupiter was explored! Exploration finished with 1 dead astronauts!
+1 planets were explored!
+Astronauts info:
+Name: Jake
+Oxygen: 50
+Bag items: none
+Name: Jack
+Oxygen: 0
+Bag items: Titanium, Quartz, Aluminium, Azurnium, Cobalt, Copper, Iron, Lead, Lithium, Plutonium, Mercury, Nickel, Magnesium, Diamond
+Name: Liam
+Oxygen: 70
+Bag items: Gold, Carbon
+Name: Michael
+Oxygen: 70
+Bag items: none
+Name: Thomas
+Oxygen: 90
+Bag items: none

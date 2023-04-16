@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ENlrU11LMDXSl3UKaaDsjRqAGgh+ocsNDmDA40GCI83+VQ3/65b7JNS2g9beTsOKCUDUfgPqkrSJe/7WPKDbng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gdpbz\\source\\repos\\ExceptionsAndErrorHandlingLab 08.11.2022\\SumOfIntegers\\SumOfIntegers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gdpbz\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\gdpbz\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

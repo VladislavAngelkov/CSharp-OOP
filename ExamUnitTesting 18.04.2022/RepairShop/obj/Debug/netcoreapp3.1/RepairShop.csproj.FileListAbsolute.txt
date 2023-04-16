@@ -1,0 +1,14 @@
+C:\Users\gdpbz\source\repos\ExamUnitTesting 18.04.2022\RepairShop\bin\Debug\netcoreapp3.1\RepairShop.exe
+C:\Users\gdpbz\source\repos\ExamUnitTesting 18.04.2022\RepairShop\bin\Debug\netcoreapp3.1\RepairShop.deps.json
+C:\Users\gdpbz\source\repos\ExamUnitTesting 18.04.2022\RepairShop\bin\Debug\netcoreapp3.1\RepairShop.runtimeconfig.json
+C:\Users\gdpbz\source\repos\ExamUnitTesting 18.04.2022\RepairShop\bin\Debug\netcoreapp3.1\RepairShop.runtimeconfig.dev.json
+C:\Users\gdpbz\source\repos\ExamUnitTesting 18.04.2022\RepairShop\bin\Debug\netcoreapp3.1\RepairShop.dll
+C:\Users\gdpbz\source\repos\ExamUnitTesting 18.04.2022\RepairShop\bin\Debug\netcoreapp3.1\RepairShop.pdb
+C:\Users\gdpbz\source\repos\ExamUnitTesting 18.04.2022\RepairShop\obj\Debug\netcoreapp3.1\RepairShop.csproj.AssemblyReference.cache
+C:\Users\gdpbz\source\repos\ExamUnitTesting 18.04.2022\RepairShop\obj\Debug\netcoreapp3.1\RepairShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gdpbz\source\repos\ExamUnitTesting 18.04.2022\RepairShop\obj\Debug\netcoreapp3.1\RepairShop.AssemblyInfoInputs.cache
+C:\Users\gdpbz\source\repos\ExamUnitTesting 18.04.2022\RepairShop\obj\Debug\netcoreapp3.1\RepairShop.AssemblyInfo.cs
+C:\Users\gdpbz\source\repos\ExamUnitTesting 18.04.2022\RepairShop\obj\Debug\netcoreapp3.1\RepairShop.csproj.CoreCompileInputs.cache
+C:\Users\gdpbz\source\repos\ExamUnitTesting 18.04.2022\RepairShop\obj\Debug\netcoreapp3.1\RepairShop.dll
+C:\Users\gdpbz\source\repos\ExamUnitTesting 18.04.2022\RepairShop\obj\Debug\netcoreapp3.1\RepairShop.pdb
+C:\Users\gdpbz\source\repos\ExamUnitTesting 18.04.2022\RepairShop\obj\Debug\netcoreapp3.1\RepairShop.genruntimeconfig.cache

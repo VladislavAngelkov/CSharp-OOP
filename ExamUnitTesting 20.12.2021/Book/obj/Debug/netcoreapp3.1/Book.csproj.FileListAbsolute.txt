@@ -1,0 +1,14 @@
+C:\Users\gdpbz\source\repos\ExamUnitTesting 20.12.2021\Book\bin\Debug\netcoreapp3.1\Book.exe
+C:\Users\gdpbz\source\repos\ExamUnitTesting 20.12.2021\Book\bin\Debug\netcoreapp3.1\Book.deps.json
+C:\Users\gdpbz\source\repos\ExamUnitTesting 20.12.2021\Book\bin\Debug\netcoreapp3.1\Book.runtimeconfig.json
+C:\Users\gdpbz\source\repos\ExamUnitTesting 20.12.2021\Book\bin\Debug\netcoreapp3.1\Book.runtimeconfig.dev.json
+C:\Users\gdpbz\source\repos\ExamUnitTesting 20.12.2021\Book\bin\Debug\netcoreapp3.1\Book.dll
+C:\Users\gdpbz\source\repos\ExamUnitTesting 20.12.2021\Book\bin\Debug\netcoreapp3.1\Book.pdb
+C:\Users\gdpbz\source\repos\ExamUnitTesting 20.12.2021\Book\obj\Debug\netcoreapp3.1\Book.csproj.AssemblyReference.cache
+C:\Users\gdpbz\source\repos\ExamUnitTesting 20.12.2021\Book\obj\Debug\netcoreapp3.1\Book.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gdpbz\source\repos\ExamUnitTesting 20.12.2021\Book\obj\Debug\netcoreapp3.1\Book.AssemblyInfoInputs.cache
+C:\Users\gdpbz\source\repos\ExamUnitTesting 20.12.2021\Book\obj\Debug\netcoreapp3.1\Book.AssemblyInfo.cs
+C:\Users\gdpbz\source\repos\ExamUnitTesting 20.12.2021\Book\obj\Debug\netcoreapp3.1\Book.csproj.CoreCompileInputs.cache
+C:\Users\gdpbz\source\repos\ExamUnitTesting 20.12.2021\Book\obj\Debug\netcoreapp3.1\Book.dll
+C:\Users\gdpbz\source\repos\ExamUnitTesting 20.12.2021\Book\obj\Debug\netcoreapp3.1\Book.pdb
+C:\Users\gdpbz\source\repos\ExamUnitTesting 20.12.2021\Book\obj\Debug\netcoreapp3.1\Book.genruntimeconfig.cache

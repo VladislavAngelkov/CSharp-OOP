@@ -1,0 +1,17 @@
+C:\Users\gdpbz\source\repos\ExceptionsAndErrorHandlingLab 08.11.2022\ReadNumbers\bin\Debug\netcoreapp3.1\ReadNumbers.exe
+C:\Users\gdpbz\source\repos\ExceptionsAndErrorHandlingLab 08.11.2022\ReadNumbers\bin\Debug\netcoreapp3.1\ReadNumbers.deps.json
+C:\Users\gdpbz\source\repos\ExceptionsAndErrorHandlingLab 08.11.2022\ReadNumbers\bin\Debug\netcoreapp3.1\ReadNumbers.runtimeconfig.json
+C:\Users\gdpbz\source\repos\ExceptionsAndErrorHandlingLab 08.11.2022\ReadNumbers\bin\Debug\netcoreapp3.1\ReadNumbers.runtimeconfig.dev.json
+C:\Users\gdpbz\source\repos\ExceptionsAndErrorHandlingLab 08.11.2022\ReadNumbers\bin\Debug\netcoreapp3.1\ReadNumbers.dll
+C:\Users\gdpbz\source\repos\ExceptionsAndErrorHandlingLab 08.11.2022\ReadNumbers\bin\Debug\netcoreapp3.1\ReadNumbers.pdb
+C:\Users\gdpbz\source\repos\ExceptionsAndErrorHandlingLab 08.11.2022\ReadNumbers\obj\Debug\netcoreapp3.1\ReadNumbers.csproj.AssemblyReference.cache
+C:\Users\gdpbz\source\repos\ExceptionsAndErrorHandlingLab 08.11.2022\ReadNumbers\obj\Debug\netcoreapp3.1\ReadNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gdpbz\source\repos\ExceptionsAndErrorHandlingLab 08.11.2022\ReadNumbers\obj\Debug\netcoreapp3.1\ReadNumbers.AssemblyInfoInputs.cache
+C:\Users\gdpbz\source\repos\ExceptionsAndErrorHandlingLab 08.11.2022\ReadNumbers\obj\Debug\netcoreapp3.1\ReadNumbers.AssemblyInfo.cs
+C:\Users\gdpbz\source\repos\ExceptionsAndErrorHandlingLab 08.11.2022\ReadNumbers\obj\Debug\netcoreapp3.1\ReadNumbers.csproj.CoreCompileInputs.cache
+C:\Users\gdpbz\source\repos\ExceptionsAndErrorHandlingLab 08.11.2022\ReadNumbers\obj\Debug\netcoreapp3.1\ReadNumbers.dll
+C:\Users\gdpbz\source\repos\ExceptionsAndErrorHandlingLab 08.11.2022\ReadNumbers\obj\Debug\netcoreapp3.1\ReadNumbers.pdb
+C:\Users\gdpbz\source\repos\ExceptionsAndErrorHandlingLab 08.11.2022\ReadNumbers\obj\Debug\netcoreapp3.1\ReadNumbers.genruntimeconfig.cache
+C:\Users\gdpbz\source\repos\ExceptionsAndErrorHandlingLab 08.11.2022\ReadNumbers\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\gdpbz\source\repos\ExceptionsAndErrorHandlingLab 08.11.2022\ReadNumbers\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\gdpbz\source\repos\ExceptionsAndErrorHandlingLab 08.11.2022\ReadNumbers\obj\Debug\netcoreapp3.1\ReadNumbers.csproj.CopyComplete

@@ -1,0 +1,14 @@
+C:\Users\gdpbz\source\repos\RetakeExam 19.12.2022\bin\Debug\netcoreapp3.1\UniversityCompetition.exe
+C:\Users\gdpbz\source\repos\RetakeExam 19.12.2022\bin\Debug\netcoreapp3.1\UniversityCompetition.deps.json
+C:\Users\gdpbz\source\repos\RetakeExam 19.12.2022\bin\Debug\netcoreapp3.1\UniversityCompetition.runtimeconfig.json
+C:\Users\gdpbz\source\repos\RetakeExam 19.12.2022\bin\Debug\netcoreapp3.1\UniversityCompetition.runtimeconfig.dev.json
+C:\Users\gdpbz\source\repos\RetakeExam 19.12.2022\bin\Debug\netcoreapp3.1\UniversityCompetition.dll
+C:\Users\gdpbz\source\repos\RetakeExam 19.12.2022\bin\Debug\netcoreapp3.1\UniversityCompetition.pdb
+C:\Users\gdpbz\source\repos\RetakeExam 19.12.2022\obj\Debug\netcoreapp3.1\UniversityCompetition.csproj.AssemblyReference.cache
+C:\Users\gdpbz\source\repos\RetakeExam 19.12.2022\obj\Debug\netcoreapp3.1\UniversityCompetition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gdpbz\source\repos\RetakeExam 19.12.2022\obj\Debug\netcoreapp3.1\UniversityCompetition.AssemblyInfoInputs.cache
+C:\Users\gdpbz\source\repos\RetakeExam 19.12.2022\obj\Debug\netcoreapp3.1\UniversityCompetition.AssemblyInfo.cs
+C:\Users\gdpbz\source\repos\RetakeExam 19.12.2022\obj\Debug\netcoreapp3.1\UniversityCompetition.csproj.CoreCompileInputs.cache
+C:\Users\gdpbz\source\repos\RetakeExam 19.12.2022\obj\Debug\netcoreapp3.1\UniversityCompetition.dll
+C:\Users\gdpbz\source\repos\RetakeExam 19.12.2022\obj\Debug\netcoreapp3.1\UniversityCompetition.pdb
+C:\Users\gdpbz\source\repos\RetakeExam 19.12.2022\obj\Debug\netcoreapp3.1\UniversityCompetition.genruntimeconfig.cache

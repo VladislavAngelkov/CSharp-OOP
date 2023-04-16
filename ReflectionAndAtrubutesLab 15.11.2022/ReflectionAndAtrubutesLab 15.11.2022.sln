@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stealer", "Stealer\Stealer.csproj", "{093AC865-E057-4304-9CB2-45764577ECF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthorProblem", "AuthorProblem\AuthorProblem.csproj", "{22A20E00-AE8C-4542-9DBC-54A89BFF58DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{093AC865-E057-4304-9CB2-45764577ECF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{093AC865-E057-4304-9CB2-45764577ECF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{093AC865-E057-4304-9CB2-45764577ECF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{093AC865-E057-4304-9CB2-45764577ECF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22A20E00-AE8C-4542-9DBC-54A89BFF58DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22A20E00-AE8C-4542-9DBC-54A89BFF58DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22A20E00-AE8C-4542-9DBC-54A89BFF58DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22A20E00-AE8C-4542-9DBC-54A89BFF58DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3FCCCEA4-1BE6-42AB-BB98-129209FD4CDE}
+	EndGlobalSection
+EndGlobal

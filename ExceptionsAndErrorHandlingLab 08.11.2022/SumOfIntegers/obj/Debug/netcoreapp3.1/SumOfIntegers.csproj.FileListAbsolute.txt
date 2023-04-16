@@ -1,0 +1,17 @@
+C:\Users\gdpbz\source\repos\ExceptionsAndErrorHandlingLab 08.11.2022\SumOfIntegers\bin\Debug\netcoreapp3.1\SumOfIntegers.exe
+C:\Users\gdpbz\source\repos\ExceptionsAndErrorHandlingLab 08.11.2022\SumOfIntegers\bin\Debug\netcoreapp3.1\SumOfIntegers.deps.json
+C:\Users\gdpbz\source\repos\ExceptionsAndErrorHandlingLab 08.11.2022\SumOfIntegers\bin\Debug\netcoreapp3.1\SumOfIntegers.runtimeconfig.json
+C:\Users\gdpbz\source\repos\ExceptionsAndErrorHandlingLab 08.11.2022\SumOfIntegers\bin\Debug\netcoreapp3.1\SumOfIntegers.runtimeconfig.dev.json
+C:\Users\gdpbz\source\repos\ExceptionsAndErrorHandlingLab 08.11.2022\SumOfIntegers\bin\Debug\netcoreapp3.1\SumOfIntegers.dll
+C:\Users\gdpbz\source\repos\ExceptionsAndErrorHandlingLab 08.11.2022\SumOfIntegers\bin\Debug\netcoreapp3.1\SumOfIntegers.pdb
+C:\Users\gdpbz\source\repos\ExceptionsAndErrorHandlingLab 08.11.2022\SumOfIntegers\obj\Debug\netcoreapp3.1\SumOfIntegers.csproj.AssemblyReference.cache
+C:\Users\gdpbz\source\repos\ExceptionsAndErrorHandlingLab 08.11.2022\SumOfIntegers\obj\Debug\netcoreapp3.1\SumOfIntegers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gdpbz\source\repos\ExceptionsAndErrorHandlingLab 08.11.2022\SumOfIntegers\obj\Debug\netcoreapp3.1\SumOfIntegers.AssemblyInfoInputs.cache
+C:\Users\gdpbz\source\repos\ExceptionsAndErrorHandlingLab 08.11.2022\SumOfIntegers\obj\Debug\netcoreapp3.1\SumOfIntegers.AssemblyInfo.cs
+C:\Users\gdpbz\source\repos\ExceptionsAndErrorHandlingLab 08.11.2022\SumOfIntegers\obj\Debug\netcoreapp3.1\SumOfIntegers.csproj.CoreCompileInputs.cache
+C:\Users\gdpbz\source\repos\ExceptionsAndErrorHandlingLab 08.11.2022\SumOfIntegers\obj\Debug\netcoreapp3.1\SumOfIntegers.dll
+C:\Users\gdpbz\source\repos\ExceptionsAndErrorHandlingLab 08.11.2022\SumOfIntegers\obj\Debug\netcoreapp3.1\SumOfIntegers.pdb
+C:\Users\gdpbz\source\repos\ExceptionsAndErrorHandlingLab 08.11.2022\SumOfIntegers\obj\Debug\netcoreapp3.1\SumOfIntegers.genruntimeconfig.cache
+C:\Users\gdpbz\source\repos\ExceptionsAndErrorHandlingLab 08.11.2022\SumOfIntegers\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\gdpbz\source\repos\ExceptionsAndErrorHandlingLab 08.11.2022\SumOfIntegers\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\gdpbz\source\repos\ExceptionsAndErrorHandlingLab 08.11.2022\SumOfIntegers\obj\Debug\netcoreapp3.1\SumOfIntegers.csproj.CopyComplete

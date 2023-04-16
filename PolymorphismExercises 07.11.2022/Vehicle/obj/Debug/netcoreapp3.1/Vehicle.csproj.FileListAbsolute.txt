@@ -1,0 +1,14 @@
+C:\Users\gdpbz\source\repos\PolymorphismExercises 07.11.2022\Vehicle\bin\Debug\netcoreapp3.1\Vehicle.exe
+C:\Users\gdpbz\source\repos\PolymorphismExercises 07.11.2022\Vehicle\bin\Debug\netcoreapp3.1\Vehicle.deps.json
+C:\Users\gdpbz\source\repos\PolymorphismExercises 07.11.2022\Vehicle\bin\Debug\netcoreapp3.1\Vehicle.runtimeconfig.json
+C:\Users\gdpbz\source\repos\PolymorphismExercises 07.11.2022\Vehicle\bin\Debug\netcoreapp3.1\Vehicle.runtimeconfig.dev.json
+C:\Users\gdpbz\source\repos\PolymorphismExercises 07.11.2022\Vehicle\bin\Debug\netcoreapp3.1\Vehicle.dll
+C:\Users\gdpbz\source\repos\PolymorphismExercises 07.11.2022\Vehicle\bin\Debug\netcoreapp3.1\Vehicle.pdb
+C:\Users\gdpbz\source\repos\PolymorphismExercises 07.11.2022\Vehicle\obj\Debug\netcoreapp3.1\Vehicle.csproj.AssemblyReference.cache
+C:\Users\gdpbz\source\repos\PolymorphismExercises 07.11.2022\Vehicle\obj\Debug\netcoreapp3.1\Vehicle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gdpbz\source\repos\PolymorphismExercises 07.11.2022\Vehicle\obj\Debug\netcoreapp3.1\Vehicle.AssemblyInfoInputs.cache
+C:\Users\gdpbz\source\repos\PolymorphismExercises 07.11.2022\Vehicle\obj\Debug\netcoreapp3.1\Vehicle.AssemblyInfo.cs
+C:\Users\gdpbz\source\repos\PolymorphismExercises 07.11.2022\Vehicle\obj\Debug\netcoreapp3.1\Vehicle.csproj.CoreCompileInputs.cache
+C:\Users\gdpbz\source\repos\PolymorphismExercises 07.11.2022\Vehicle\obj\Debug\netcoreapp3.1\Vehicle.dll
+C:\Users\gdpbz\source\repos\PolymorphismExercises 07.11.2022\Vehicle\obj\Debug\netcoreapp3.1\Vehicle.pdb
+C:\Users\gdpbz\source\repos\PolymorphismExercises 07.11.2022\Vehicle\obj\Debug\netcoreapp3.1\Vehicle.genruntimeconfig.cache

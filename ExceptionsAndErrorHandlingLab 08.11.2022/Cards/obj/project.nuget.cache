@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "R0x+1Eq1D5j4iOfty/DvsCOEi+zreXQT24lqgP8qcAmyYi3z3DGwWS/Ez7V+zWpfrS4XCqPUQGAaX9vtnNRxYA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gdpbz\\source\\repos\\ExceptionsAndErrorHandlingLab 08.11.2022\\Cards\\Cards.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gdpbz\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\gdpbz\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

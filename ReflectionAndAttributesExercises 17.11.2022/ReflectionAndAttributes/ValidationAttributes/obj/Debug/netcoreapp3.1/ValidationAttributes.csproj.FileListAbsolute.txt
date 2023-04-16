@@ -1,0 +1,14 @@
+C:\Users\gdpbz\source\repos\ReflectionAndAttributesExercises 17.11.2022\ReflectionAndAttributes\ValidationAttributes\bin\Debug\netcoreapp3.1\ValidationAttributes.exe
+C:\Users\gdpbz\source\repos\ReflectionAndAttributesExercises 17.11.2022\ReflectionAndAttributes\ValidationAttributes\bin\Debug\netcoreapp3.1\ValidationAttributes.deps.json
+C:\Users\gdpbz\source\repos\ReflectionAndAttributesExercises 17.11.2022\ReflectionAndAttributes\ValidationAttributes\bin\Debug\netcoreapp3.1\ValidationAttributes.runtimeconfig.json
+C:\Users\gdpbz\source\repos\ReflectionAndAttributesExercises 17.11.2022\ReflectionAndAttributes\ValidationAttributes\bin\Debug\netcoreapp3.1\ValidationAttributes.runtimeconfig.dev.json
+C:\Users\gdpbz\source\repos\ReflectionAndAttributesExercises 17.11.2022\ReflectionAndAttributes\ValidationAttributes\bin\Debug\netcoreapp3.1\ValidationAttributes.dll
+C:\Users\gdpbz\source\repos\ReflectionAndAttributesExercises 17.11.2022\ReflectionAndAttributes\ValidationAttributes\bin\Debug\netcoreapp3.1\ValidationAttributes.pdb
+C:\Users\gdpbz\source\repos\ReflectionAndAttributesExercises 17.11.2022\ReflectionAndAttributes\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.csproj.AssemblyReference.cache
+C:\Users\gdpbz\source\repos\ReflectionAndAttributesExercises 17.11.2022\ReflectionAndAttributes\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gdpbz\source\repos\ReflectionAndAttributesExercises 17.11.2022\ReflectionAndAttributes\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.AssemblyInfoInputs.cache
+C:\Users\gdpbz\source\repos\ReflectionAndAttributesExercises 17.11.2022\ReflectionAndAttributes\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.AssemblyInfo.cs
+C:\Users\gdpbz\source\repos\ReflectionAndAttributesExercises 17.11.2022\ReflectionAndAttributes\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.csproj.CoreCompileInputs.cache
+C:\Users\gdpbz\source\repos\ReflectionAndAttributesExercises 17.11.2022\ReflectionAndAttributes\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.dll
+C:\Users\gdpbz\source\repos\ReflectionAndAttributesExercises 17.11.2022\ReflectionAndAttributes\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.pdb
+C:\Users\gdpbz\source\repos\ReflectionAndAttributesExercises 17.11.2022\ReflectionAndAttributes\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\gdpbz\source\repos\DesignPatternsLab 25.11.2022\CommandPattern\bin\Debug\net6.0\CommandPattern.exe
+C:\Users\gdpbz\source\repos\DesignPatternsLab 25.11.2022\CommandPattern\bin\Debug\net6.0\CommandPattern.deps.json
+C:\Users\gdpbz\source\repos\DesignPatternsLab 25.11.2022\CommandPattern\bin\Debug\net6.0\CommandPattern.runtimeconfig.json
+C:\Users\gdpbz\source\repos\DesignPatternsLab 25.11.2022\CommandPattern\bin\Debug\net6.0\CommandPattern.dll
+C:\Users\gdpbz\source\repos\DesignPatternsLab 25.11.2022\CommandPattern\bin\Debug\net6.0\CommandPattern.pdb
+C:\Users\gdpbz\source\repos\DesignPatternsLab 25.11.2022\CommandPattern\obj\Debug\net6.0\CommandPattern.csproj.AssemblyReference.cache
+C:\Users\gdpbz\source\repos\DesignPatternsLab 25.11.2022\CommandPattern\obj\Debug\net6.0\CommandPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gdpbz\source\repos\DesignPatternsLab 25.11.2022\CommandPattern\obj\Debug\net6.0\CommandPattern.AssemblyInfoInputs.cache
+C:\Users\gdpbz\source\repos\DesignPatternsLab 25.11.2022\CommandPattern\obj\Debug\net6.0\CommandPattern.AssemblyInfo.cs
+C:\Users\gdpbz\source\repos\DesignPatternsLab 25.11.2022\CommandPattern\obj\Debug\net6.0\CommandPattern.csproj.CoreCompileInputs.cache
+C:\Users\gdpbz\source\repos\DesignPatternsLab 25.11.2022\CommandPattern\obj\Debug\net6.0\CommandPattern.dll
+C:\Users\gdpbz\source\repos\DesignPatternsLab 25.11.2022\CommandPattern\obj\Debug\net6.0\refint\CommandPattern.dll
+C:\Users\gdpbz\source\repos\DesignPatternsLab 25.11.2022\CommandPattern\obj\Debug\net6.0\CommandPattern.pdb
+C:\Users\gdpbz\source\repos\DesignPatternsLab 25.11.2022\CommandPattern\obj\Debug\net6.0\CommandPattern.genruntimeconfig.cache
+C:\Users\gdpbz\source\repos\DesignPatternsLab 25.11.2022\CommandPattern\obj\Debug\net6.0\ref\CommandPattern.dll

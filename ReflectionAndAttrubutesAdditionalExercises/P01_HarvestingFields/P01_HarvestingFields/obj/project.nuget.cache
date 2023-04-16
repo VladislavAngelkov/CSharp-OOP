@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z+YUjcTVlqFTlrbptECiJK9j/c0X3D7mstiHzEiM/RJOwNGyzZWjku0xpnN5T5ISzoEmkh4BLyzLVuZvKiOY0g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gdpbz\\source\\repos\\ReflectionAndAttrubutesAdditionalExercises\\P01_HarvestingFields\\P01_HarvestingFields\\P01_HarvestingFields.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gdpbz\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\gdpbz\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\gdpbz\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\gdpbz\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\gdpbz\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\gdpbz\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "HZKYbBj2eEe2e0ba2JnFqgMwxp/Oer61s353EeWnNGH9afn5Pq/zR7hqskZB9dW8OAjkJgpDOYoVBUCNgCgERw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gdpbz\\source\\repos\\ExceptionsAndErrorHandlingLab 08.11.2022\\PlayCatch\\PlayCatch.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gdpbz\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\gdpbz\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

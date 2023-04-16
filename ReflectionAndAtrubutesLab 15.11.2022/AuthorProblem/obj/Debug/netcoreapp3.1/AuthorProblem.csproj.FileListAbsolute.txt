@@ -1,0 +1,14 @@
+C:\Users\gdpbz\source\repos\ReflectionAndAtrubutesLab 15.11.2022\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.exe
+C:\Users\gdpbz\source\repos\ReflectionAndAtrubutesLab 15.11.2022\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.deps.json
+C:\Users\gdpbz\source\repos\ReflectionAndAtrubutesLab 15.11.2022\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.runtimeconfig.json
+C:\Users\gdpbz\source\repos\ReflectionAndAtrubutesLab 15.11.2022\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.runtimeconfig.dev.json
+C:\Users\gdpbz\source\repos\ReflectionAndAtrubutesLab 15.11.2022\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.dll
+C:\Users\gdpbz\source\repos\ReflectionAndAtrubutesLab 15.11.2022\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.pdb
+C:\Users\gdpbz\source\repos\ReflectionAndAtrubutesLab 15.11.2022\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.csproj.AssemblyReference.cache
+C:\Users\gdpbz\source\repos\ReflectionAndAtrubutesLab 15.11.2022\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gdpbz\source\repos\ReflectionAndAtrubutesLab 15.11.2022\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.AssemblyInfoInputs.cache
+C:\Users\gdpbz\source\repos\ReflectionAndAtrubutesLab 15.11.2022\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.AssemblyInfo.cs
+C:\Users\gdpbz\source\repos\ReflectionAndAtrubutesLab 15.11.2022\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.csproj.CoreCompileInputs.cache
+C:\Users\gdpbz\source\repos\ReflectionAndAtrubutesLab 15.11.2022\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.dll
+C:\Users\gdpbz\source\repos\ReflectionAndAtrubutesLab 15.11.2022\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.pdb
+C:\Users\gdpbz\source\repos\ReflectionAndAtrubutesLab 15.11.2022\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.genruntimeconfig.cache

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "Singleton\Singleton.csproj", "{2D91A51C-1334-46CC-876C-7B22F52DDAA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facade", "Facade\Facade.csproj", "{ACCD3CE5-9CB9-4D26-A64E-B212113AF29C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandPattern", "CommandPattern\CommandPattern.csproj", "{860635DB-7E82-4008-ACB9-39A6415390BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D91A51C-1334-46CC-876C-7B22F52DDAA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D91A51C-1334-46CC-876C-7B22F52DDAA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D91A51C-1334-46CC-876C-7B22F52DDAA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D91A51C-1334-46CC-876C-7B22F52DDAA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACCD3CE5-9CB9-4D26-A64E-B212113AF29C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACCD3CE5-9CB9-4D26-A64E-B212113AF29C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACCD3CE5-9CB9-4D26-A64E-B212113AF29C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACCD3CE5-9CB9-4D26-A64E-B212113AF29C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{860635DB-7E82-4008-ACB9-39A6415390BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{860635DB-7E82-4008-ACB9-39A6415390BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{860635DB-7E82-4008-ACB9-39A6415390BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{860635DB-7E82-4008-ACB9-39A6415390BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E8528CA-31F1-48DA-A831-A70983AD2369}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "u20zdcoihSZM8C+OHI7eMCLCWgIR+JmaLtoqQbu3gr1sGsxrPvdrIsAVRWm0+yW69TiwdyN7Lsgo3HOV1L4ZtA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gdpbz\\source\\repos\\ExceptionsAndErrorHandlingLab 08.11.2022\\SquareRoot\\SquareRoot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gdpbz\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\gdpbz\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
